@@ -6,7 +6,7 @@
   "dependencies": {
     "@storybook/design-system": "^1.1.7",
     "formik": "^1.5.7",
-    "gatsby": "^2.7.1",
+    "gatsby": "^4.14.0",
     "gatsby-plugin-layout": "^1.0.15",
     "gatsby-plugin-react-helmet": "^3.0.12",
     "gatsby-plugin-segment-js": "^3.0.1",
